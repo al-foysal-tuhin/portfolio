@@ -30,7 +30,7 @@ Worked with my supervisor, on a paper for my undergraduate thesis that proposes 
 ## Projects
 Developed a simple cakeshop/ bakery website using HTML, CSS & JavaScript for my cousin as a voluntary work.
 
-  ![Sunjus Dessert](kshdf)
+  ![Sunjus Dessert](sunjusdessert.png)
 
 
 
