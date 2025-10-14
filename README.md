@@ -2,8 +2,9 @@
 
 #### Technical Skills: Python, SQL, R, Power BI, MATLAB, Latex, MS Office, VBA
 
-## Education							       					        		
-- B.Sc., Software Engineering Major in Data Science | Daffodil International University (_Feb 2024_) | **CGPA:** 3.72 out of 4 or German Grade 1.4
+## Education	
+- M. Sc., Web & Data Science | University of Koblenz ( April 05, 2026 - Current )
+- B.Sc., Software Engineering Major in Data Science | **CGPA:** 3.72 out of 4 or German Grade 1.4 | Daffodil International University (_Feb 2024_) 
 - Erasmus+, Software Engineering | Lodz Univeristy of Technology (_June 2022_)
 
 ## Work Experience
