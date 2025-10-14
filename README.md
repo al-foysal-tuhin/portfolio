@@ -1,4 +1,4 @@
-# Data Scientist
+# Aspring Data Scientist
 
 #### Technical Skills: Python, SQL, R, Power BI, MATLAB, Latex, MS Office, VBA
 
