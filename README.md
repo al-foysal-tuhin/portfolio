@@ -28,8 +28,8 @@ Worked with my supervisor, on a paper for my undergraduate thesis that proposes 
 
 
 ## Language
-Bengali - Mother toungr
-English - IELTS 7.0
+Bengali - Mother tounge |
+English - IELTS 7.0 |
 Deutsch -  B1 Proficiency
 
 
