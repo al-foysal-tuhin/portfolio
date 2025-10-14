@@ -1,6 +1,6 @@
 # Aspring Data Scientist
 
-#### Technical Skills: Python, SQL, R, Power BI, MATLAB, Latex, MS Office, VBA
+#### Technical Skills: Python, SQL, R, Power BI, MATLAB, Latex, MS Office, VBA, SUPERVISED & UNSUPERVISED LEARNING, EDA.
 
 ## Education	
 - M. Sc. Web & Data Science | University of Koblenz ( April, 2026 - Current )
