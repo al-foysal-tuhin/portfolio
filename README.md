@@ -4,8 +4,8 @@
 
 ## Education	
 - M. Sc. Web & Data Science | University of Koblenz ( April, 2026 - Current )
-- B.Sc. Software Engineering Major in Data Science | [**CGPA:** 3.72 out of 4 or German Grade 1.4](https://drive.google.com/file/d/1dWwSwtXx9zf4SEKamQPGZjdM8fuwpLNa/view?usp=drive_link) | Daffodil International University (_Feb 2024_) 
-- Erasmus+, Software Engineering |  [**CGPA:** 4.5 out of 5 or German Grade 1.75](https://drive.google.com/file/d/1vZh7MGdZSZBHMqZZE8g-Jt_NyafODhWy/view?usp=sharing)   | Lodz Univeristy of Technology (_June 2022_)
+- B.Sc. Software Engineering Major in Data Science | [**CGPA:** 3.72 out of 4 or German Grade 1.4](https://drive.google.com/file/d/1dWwSwtXx9zf4SEKamQPGZjdM8fuwpLNa/view?usp=drive_link) | Daffodil International University, Bangladesh (_Feb 2024_) 
+- Erasmus+, Software Engineering |  [**CGPA:** 4.5 out of 5 or German Grade 1.75](https://drive.google.com/file/d/1vZh7MGdZSZBHMqZZE8g-Jt_NyafODhWy/view?usp=sharing)   | Lodz Univeristy of Technology, Poland (_June 2022_)
 
 ## Work Experience
 **[Data Scientist @ British Airways](https://drive.google.com/file/d/1WDS01tpeD9fXfvGFiK1J48iwuQPYIlbU/view?usp=drive_link) (September 2023 - October 2023)**
