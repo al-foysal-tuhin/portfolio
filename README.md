@@ -7,7 +7,7 @@
 - Erasmus+, Software Engineering | Lodz Univeristy of Technology (_June 2022_)
 
 ## Work Experience
-**[Data Scientist @ British Airways](https://drive.google.com/file/d/1WDS01tpeD9fXfvGFiK1J48iwuQPYIlbU/view?usp=drive_link) (_September 2023 - October 2023)**
+**[Data Scientist @ British Airways](https://drive.google.com/file/d/1WDS01tpeD9fXfvGFiK1J48iwuQPYIlbU/view?usp=drive_link) (September 2023 - October 2023)**
 -  Completed a self-paced data science program utilizing Python libraries like Pandas and Scikit-learn to analyze real-world British Airways data.
 - Gained experience in data cleaning with tools like SQL, data analysis with exploratory data analysis (EDA) techniques, model building with algorithms like logistic regression, and data scraping with web scraping tools like Beautiful Soup.
 -  Built a predictive model using machine learning algorithms to understand factors influencing British Airways’ customer buying behavior.
