@@ -27,8 +27,10 @@ Worked with my supervisor, on a paper for my undergraduate thesis that proposes 
 
 
 
-## Projects
-Developed a simple cakeshop/ bakery website using HTML, CSS & JavaScript for my cousin as a voluntary work.
+## Language
+Bengali - Mother toungr
+English - IELTS 7.0
+Deutsch -  B1 Proficiency
 
 
 
