@@ -34,7 +34,7 @@ English - IELTS 7.0 |
 Deutsch -  B1 Proficiency
 
 ## HONOURS AND AWARDS 
-** Erasmus+ KA 107 Exchange Program – Daffodil International University **
+**Erasmus+ KA 107 Exchange Program – Daffodil International University**
 
 
 
