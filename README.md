@@ -34,7 +34,7 @@ English - IELTS 7.0 |
 Deutsch -  B1 Proficiency
 
 ## HONOURS AND AWARDS 
-**Erasmus+ KA 107 Exchange Program – Daffodil International University**
+**Erasmus+ KA 107 Exchange Program** – Daffodil International University
 
 
 Awarded the Erasmus+ scholarship exchange program for academic excellence and international mobility during my Bachelor's studies. Selected as one of only three students to study in Poland that year, participating in cross-cultural research and academic exchange within the European Union.
