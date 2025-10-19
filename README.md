@@ -1,6 +1,6 @@
 # Aspring Data Scientist
 
-#### Technical Skills: MS Office 365, Python, SQL, R, Power BI, MATLAB, Latex, VBA, Supervised & Unsupervised Learning, EDA.
+Motivated student with experience in data analytics and sentiment analysis. Skilled in data cleaning, dashboard creation, and machine learning for insight generation.
 
 ## Education	
 - M. Sc. Web & Data Science | University of Koblenz ( April, 2026 - Current )
@@ -33,10 +33,10 @@ Deutsch -  B1 Proficiency
 ## HONOURS AND AWARDS 
 **Erasmus+ KA 107 Exchange Program** – Daffodil International University
 
-
 Awarded the Erasmus+ scholarship exchange program for academic excellence and international mobility during my Bachelor's studies. Selected as one of only three students to study in Poland that year, participating in cross-cultural research and academic exchange within the European Union.
 
 
-
+## Technical Skills
+MS Office 365, Python, SQL, R, Power BI, MATLAB, Latex, VBA, Supervised & Unsupervised Learning, EDA, Supervisez & Unsupervised Learning
 
 
