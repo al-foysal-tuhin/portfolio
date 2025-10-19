@@ -25,9 +25,6 @@ Worked with my supervisor, on a paper for my undergraduate thesis that proposes 
 - Visualized performance comparison between different countries and hotels distinctively.
 - Reduced bias of previous research paper submitted to Google Scholar.
 
-
-
-
 ## Language
 Bengali - Mother tounge |
 English - IELTS 7.0 |
