@@ -25,6 +25,9 @@ Worked with my supervisor, on a paper for my undergraduate thesis that proposes 
 - Visualized performance comparison between different countries and hotels distinctively.
 - Reduced bias of previous research paper submitted to Google Scholar.
 
+## Projects
+
+
 ## Language
 Bengali - Mother tounge |
 English - IELTS 7.0 |
@@ -38,5 +41,7 @@ Awarded the Erasmus+ scholarship exchange program for academic excellence and in
 
 ## Technical Skills
 MS Office 365, Python, SQL, R, Power BI, MATLAB, Latex, VBA, Supervised & Unsupervised Learning, EDA, Supervisez & Unsupervised Learning
+
+
 
 
