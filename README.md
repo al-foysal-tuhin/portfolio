@@ -30,7 +30,7 @@ Worked with my supervisor, on a paper for my undergraduate thesis that proposes 
 
 ## Language
 Bengali - Mother tounge |
-English - IELTS 7.0 |
+[English - IELTS 7.0](https://drive.google.com/file/d/168hQgtX3k7KSXpr-XJO8fU4Ee70eAX8C/view?usp=drive_link) |
 Deutsch -  B1 Proficiency
 
 ## HONOURS AND AWARDS 
