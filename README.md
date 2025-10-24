@@ -16,7 +16,7 @@ Motivated student with experience in data analytics and sentiment analysis. Skil
 
 
 ## Research Work
-### Evaluating Elegance: Sentiment Analysis in European Luxury Hotel Reviews 
+### [Evaluating Elegance: Sentiment Analysis in European Luxury Hotel Reviews](https://github.com/al-foysal-tuhin/Evaluating-Elegance-Hotel-Reviews)
 [Publication](https://drive.google.com/file/d/1Ks1UHHiIWUaQAcVQ5f9t2-1osE3hyz1p/view?usp=sharing)
 
 Worked with my supervisor, on a paper for my undergraduate thesis that proposes a heuristic model for sentiment analysis on luxury hotel reviews to analyze and explore marketing insights from attitudes and emotions expressed in reviews. [Accepted for publication in the International Conference on Data Science & Exploration in Artificial Intelligence, 2024 (MAHE) & procedure to publish ongoing](https://drive.google.com/file/d/1l5P8lZl1aPehc8b_ghNYRdA2pZbdDiIF/view?usp=sharing)
