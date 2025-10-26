@@ -40,6 +40,8 @@ Awarded the Erasmus+ scholarship exchange program for academic excellence and in
 ## Technical Skills
 MS Office 365, Python, SQL, R, Power BI, MATLAB, Latex, VBA, Supervised & Unsupervised Learning, EDA, Supervisez & Unsupervised Learning
 
+## Projects
+
 
 
 
